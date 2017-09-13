@@ -1,7 +1,7 @@
 {
-  "name": "reactstaterkit",
+  "name": "note-app",
   "version": "1.0.0",
-  "description": "a simple react starter kit to help me speed up development",
+  "description": "a minimalistic note taking app",
   "main": "index.js",
   "scripts": {
     "prestart": "babel-node tools/startMessage.js",
@@ -14,15 +14,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kingisaac95/react-stater-kit.git"
+    "url": "git+https://github.com/kingisaac95/note-app.git"
   },
   "keywords": [],
-  "author": "",
+  "author": "kingisaac95",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kingisaac95/react-stater-kit/issues"
+    "url": "https://github.com/kingisaac95/note-app/issues"
   },
-  "homepage": "https://github.com/kingisaac95/react-stater-kit#readme",
+  "homepage": "https://github.com/kingisaac95/note-app#readme",
   "dependencies": {
     "babel-cli": "6.24.1",
     "babel-core": "6.25.0",
