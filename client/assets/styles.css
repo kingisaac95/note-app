@@ -1,0 +1,74 @@
+html {
+  height: 100%;
+  box-sizing: border-box;
+}
+
+body {
+  position: relative;
+  margin: 0;
+  padding-bottom: 6rem;
+  min-height: 100%;
+}
+
+.container {
+  width: 80%;
+}
+
+.footer {
+  position: absolute;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  padding: 1rem;
+  color: #ffffff;
+}
+
+.nav {
+  position: absolute;
+  right: 0;
+  top: 0;
+  left: 0;
+}
+
+#navbar-title {
+  padding-left: 20px;
+}
+
+.space {
+  padding: 40px;
+}
+
+.theme-background {
+  background-color: #283e4a;
+}
+
+.input-field {
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.delete-icon {
+  font-size: 30px;
+}
+
+.save-btn {
+  border: 1px solid #283e4a;
+  color: #283e4a;
+  background-color: #ffffff;
+}
+
+.save-btn:hover {
+  color: #ffffff;
+  background-color: #283e4a;
+}
+
+.note-card {
+  box-shadow: 0 5px 5px 0 rgba(0,0,0,0.2);
+  min-height: 100px;
+  padding: 10px;
+  background-color: #f3f6f8
+}
+
+#note-text {
+  border-bottom: 1px solid #283e4a;
+}
